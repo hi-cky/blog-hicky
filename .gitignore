@@ -1,4 +1,4 @@
 public
 resources
-posts
+content/*
 .DS_store
